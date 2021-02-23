@@ -1,0 +1,36 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Pascal Rp Private Bot",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "console-title": "^1.1.0",
+    "dankmemes": "^1.0.0",
+    "discord.js": "^11.6.4",
+    "forever": "^3.0.0",
+    "forever-monitor": "^3.0.1",
+    "get-json": "^1.0.1",
+    "google-images": "^2.1.0",
+    "jimp": "^0.5.6",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kianoush11/american_dream.git"
+  },
+  "author": "Kianoush11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kianoush11/american_dream/issues"
+  },
+  "homepage": "https://github.com/Kianoush11/american_dream"
+}
