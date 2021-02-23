@@ -6,7 +6,7 @@ const Discord = require('discord.js')
 exports.run = (bot, msg, params) => {
 
    msg.delete();
-  msg.author.send(`https://discord.com/oauth2/authorize?client_id=${msg.author.bot.id}&scope=bot&permissions=8`);
+  msg.author.send(`https://discord.com/oauth2/authorize?client_id=799152735806947370&scope=bot&permissions=8`);
 
 };
 
